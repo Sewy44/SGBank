@@ -3,7 +3,7 @@
 ## Description
 A simple banking application. User can lookup an account, make a deposit, or a withdraw. Different account types have different rules. If a deposit or withdrawal is made, the application overwrites the account information to an external .txt file.
 
-A C# console application that uses Some intermediate and advanced C# concepts. Concepts include working with Lists and Dictionarys, System.IO, Interfaces, Factory Pattern, Enums, and Unit testing with NUnit. 
+A C# console application that uses Some intermediate and advanced C# concepts. Concepts include working with Lists and Dictionarys, Mocking, System.IO, Interfaces, Factory Pattern, Enums, and Unit testing with NUnit. 
 
 ## Usage
 

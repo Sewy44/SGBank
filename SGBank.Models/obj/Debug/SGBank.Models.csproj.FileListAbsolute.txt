@@ -1,0 +1,11 @@
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\SGBank.Models\obj\Debug\SGBank.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.Models\obj\Debug\SGBank.Models.pdb

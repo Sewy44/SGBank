@@ -20,3 +20,14 @@ C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.BLL\obj\
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.BLL\obj\Debug\SGBank.BLL.dll
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M4\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\SGBank\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
